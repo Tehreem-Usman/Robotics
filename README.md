@@ -1,27 +1,28 @@
-# Robotics Projects 🤖
+# Git & GitHub Practice
 
-Welcome to my robotics project repository!
+# About
+This repository is created as part of the Robitary Cohort 1 Developer Internship Program to practise Git and GitHub commands and learn version control.
 
-## 👩‍💻 About
-I'm a Computer Science student exploring robotics, technology, and software development. This repository is intended to document my robotics-related learning, projects, and experiments.
+# Learning Objectives
+- Add and commit changes
+- Create and switch between branches
+- Merge branches
+- Fork and clone repositories
+- Collaborate with others
+- Contribute through pull requests
 
-## 🎯 Goals
-- Develop practical robotics and programming skills.
-- Explore robotics systems and automation.
-- Learn by building and testing projects.
-- Document my progress and technical knowledge.
+# What I'm Practising
+This repository will contain practice files and examples as I learn Git and GitHub.
 
-## 🛠️ Technologies
-*Technologies will be added as I work on projects.*
+# Technologies
+- Git
+- GitHub
+- Visual Studio Code
 
-## 📂 Projects
-Project details, descriptions, and documentation will be added as work progresses.
-
-## 🌱 Currently Learning
-- Robotics fundamentals
-- Programming and problem-solving
-- Robotics tools and technologies
+# Progress
+Currently learning the basics of version control and collaborative development.
 
 ---
 
-*Learning, building, and exploring robotics one project at a time.* 🚀
+*Robitary Cohort 1 — Developer Internship Program*
+
