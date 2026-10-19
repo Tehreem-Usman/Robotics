@@ -1,1 +1,2 @@
 Set-Content practice.txt "Practising Git add and commit. My first practice change."
+Practising Git branching and merging.
